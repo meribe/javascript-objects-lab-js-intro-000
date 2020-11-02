@@ -1,7 +1,7 @@
 var recipes= {sarma:"yaprak", dolma:"biber"}
 function updateObjectWithKeyAndValue(object, key, value){
 return= Object.assign({}, recipes, {[key]:value})
-   
+
 }
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
   recipes[kabak]= vardı
